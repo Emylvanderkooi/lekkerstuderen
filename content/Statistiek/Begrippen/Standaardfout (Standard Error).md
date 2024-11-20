@@ -1,0 +1,1 @@
+Een maat voor de spreiding van een schatter. De standaardfout wordt gebruikt bij het construeren van betrouwbaarheidsintervallen en het uitvoeren van hypothesetoetsen.

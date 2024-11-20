@@ -1,0 +1,1 @@
+Gelijke standaarddeviaties tussen groepen.
